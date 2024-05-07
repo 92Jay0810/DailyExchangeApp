@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DailyExchange</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Exchange_Name_Array">
+        <item>USDFKP</item>
+        <item>USDITL</item>
+        <item>USDCNH</item>
+        <item>USDLAK</item>
+        <item>USDZMW</item>
+        <item>USDAOA</item>
+        <item>USDTWD</item>
+    </string-array>
+</resources>
